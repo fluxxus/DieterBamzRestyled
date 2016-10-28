@@ -1,0 +1,21 @@
+{
+    "title": "Dieter Bamz Restyled",
+    "name": "dieter-bamz-restyled",
+    "description": "Dieter Bamz Restyled Theme for Brackets. Please visit https://github.com/Madebym/DieterBamzRestyled for info on how to use it. ",
+    "version": "1.0.0",
+    "author": "Madebym (https://github.com/Madebym)",
+    "homepage": "https://github.com/Madebym/DieterBamzRestyled",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Madebym/DieterBamzRestyled.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": false
+    },
+	"keywords": ["theme"]
+}
