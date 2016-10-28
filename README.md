@@ -9,5 +9,13 @@ As many of you already know, when creating a theme it is not possible to theme B
 Basically what I did here, is just that I themed the UI to be more consistent with the beautiful(IMO) original Dieter Bamz theme. I left the top bar's background to default dark, still not sure should I change that also. I kinda like it this way.
 
 
-Before: 
+#Before:
+
+![alt tag](https://raw.githubusercontent.com/Madebym/DieterBamzRestyled/master/screens//screen-4.jpg)
+![alt tag](https://raw.githubusercontent.com/Madebym/DieterBamzRestyled/master/screens//screen-3.jpg)
+
+#After
+
+![alt tag](https://raw.githubusercontent.com/Madebym/DieterBamzRestyled/master/screens//screen-1.jpg)
+![alt tag](https://raw.githubusercontent.com/Madebym/DieterBamzRestyled/master/screens//screen-2.jpg)
 
