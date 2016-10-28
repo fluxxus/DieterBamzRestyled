@@ -12,10 +12,12 @@ Basically what I did here, is just that I themed the UI to be more consistent wi
 #Before:
 
 ![alt tag](https://raw.githubusercontent.com/Madebym/DieterBamzRestyled/master/screens//screen-4.jpg)
+
 ![alt tag](https://raw.githubusercontent.com/Madebym/DieterBamzRestyled/master/screens//screen-3.jpg)
 
 #After
 
 ![alt tag](https://raw.githubusercontent.com/Madebym/DieterBamzRestyled/master/screens//screen-1.jpg)
+
 ![alt tag](https://raw.githubusercontent.com/Madebym/DieterBamzRestyled/master/screens//screen-2.jpg)
 
