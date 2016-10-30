@@ -97,10 +97,10 @@ span.cm-error		{ color: #ff0076; }
 .sidebar .jstree-brackets li a,
 .sidebar .jstree-brackets li a:hover,
 #outline-list li{
-	font-size: 14px;
+	font-size: 13px;
 }
 .panel{
-background-color: #fff;
+background-color: #fcfbf6;
 text-shadow:none;
 color: #333;
 }
@@ -111,16 +111,19 @@ color: #000;
 color: #222;
 }
 #project-files-header .btn-alt-quiet{
-background-color: #eee;
+background-color: #f8f5e9;
 }
-#main-toolbar{
-background-color: #eee;
+#main-toolbar, #status-bar{
+background-color: #fcfbf6;
+}
+#status-bar{
+	color:#000
 }
 #main-toolbar .buttons>a:hover, #main-toolbar .bottom-buttons>a:hover{
-background-color: hsla(100, 100%, 100%, 0.7) !important;
+background-color: hsla(0, 0%, 0%, 0.1) !important;
 }
 #working-set-list-container, .working-set-header, .working-set-header>span{
-background-color: #fff !important;
+background-color: #fbf9f3 !important;
 }
 .working-set-header{
 color: #000;
